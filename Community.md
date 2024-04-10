@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Vansh Pahuja</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/vanshpahuja17</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/vansh-pahuja-49b141213/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Vivekanand Education Society Institute Of Technology, Mumbai</td>
+      </tr>
+</table>
